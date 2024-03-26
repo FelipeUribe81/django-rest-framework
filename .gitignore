@@ -1,0 +1,2 @@
+venv/
+django_rest_crud/db.sqlite3
